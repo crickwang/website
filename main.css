@@ -1,0 +1,12 @@
+#links {
+    display: flex;
+    justify-content: space-around;
+}
+
+a:hover {
+    color: red;
+}
+
+details:hover {
+    cursor: pointer;
+}

@@ -1,3 +1,3 @@
-Third-year computer science student at University of California San Diego. Experienced with machine learning algorithms, deep learning methods, and software design.
+This page contains both Chinese and English versions of the personal profolio. The URL of this page is <https://crickwang.github.io/website/>
 
 

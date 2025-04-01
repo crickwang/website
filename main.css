@@ -10,3 +10,14 @@ a:hover {
 details:hover {
     cursor: pointer;
 }
+
+.portrait {
+    width: 300px;
+    height: auto;
+    float: right;
+}
+
+.summary {
+    gap: 10px;
+    display: flex;;
+}
